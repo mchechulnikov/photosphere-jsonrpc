@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Photosphere.JsonRpc", "Photosphere.JsonRpc\Photosphere.JsonRpc.shproj", "{F03E4530-929E-4B2C-B017-BFB35ADB0E2C}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Photosphere.JsonRpc\Photosphere.JsonRpc.projitems*{f03e4530-929e-4b2c-b017-bfb35adb0e2c}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
