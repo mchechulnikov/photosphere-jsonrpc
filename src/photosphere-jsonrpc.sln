@@ -3,11 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Photosphere.JsonRpc", "Photosphere.JsonRpc\Photosphere.JsonRpc.shproj", "{F03E4530-929E-4B2C-B017-BFB35ADB0E2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photosphere.JsonRpc", "Photosphere.JsonRpc\Photosphere.JsonRpc.csproj", "{108E1ADC-A35F-4520-9AAD-84BA9B839A0F}"
 EndProject
 Global
-	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		Photosphere.JsonRpc\Photosphere.JsonRpc.projitems*{f03e4530-929e-4b2c-b017-bfb35adb0e2c}*SharedItemsImports = 13
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108E1ADC-A35F-4520-9AAD-84BA9B839A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108E1ADC-A35F-4520-9AAD-84BA9B839A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108E1ADC-A35F-4520-9AAD-84BA9B839A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108E1ADC-A35F-4520-9AAD-84BA9B839A0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
